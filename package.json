@@ -19,7 +19,7 @@
   "author": "adme",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@whiskeysockets/baileys": "^6.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
     "async": "^3.2.3",
